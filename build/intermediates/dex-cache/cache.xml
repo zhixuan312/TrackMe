@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\zhang_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-0ce7d56fca6e18ce1e4b14a804a8894945f2bed9.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\pre-dexed\debug\classes-fb959c3945888c1425feabb4f7d16f93afbd13ab.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\pre-dexed\debug\classes-c00ec139fd9570f48361081356b9082084104308.jar" />
+    </item>
+    <item
+        jar="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Google Drive\SCHOOL\PAST\Orbital\TrackMe_-_Splashdown-2015-08-19\TrackMe - Splashdown\SaveContact - Complete\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-c615abc21106811b84897a9e1ebe3377a76ecad5.jar" />
+    </item>
+
+</items>

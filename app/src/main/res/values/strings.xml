@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TrackMe</string>
+
+    <string name="main_new_button">New</string>
+    <string name="main_record_button">Record</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new">New</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_record">Record</string>
+    <string name="locationText">PlaceHolder</string>
+    <string name="showMap">Show Map</string>
+    <string name="userLocated">\" has been located around \"</string>
+    <string name="dialog_close">Close</string>
+    <string name="Privacy_settings">Location Reply</string>
+</resources>
